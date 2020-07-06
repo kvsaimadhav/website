@@ -1,1 +1,1 @@
-This is a sample project for DevOps related project.
+This is a sample project for Website related project.
